@@ -1,0 +1,9 @@
+Acme Tech is a software company founded in 2018 in Kathmandu, Nepal. The company builds AI tools for small businesses and has a team of 45 engineers.
+
+Working hours at Acme Tech are 9 AM to 5 PM, Sunday to Friday. Employees can work from home on Fridays. The company offers 18 paid leave days per year.
+
+The interview process has three rounds. The first round is a screening call with HR. The second round is a technical interview with the engineering team. The final round is a discussion with the CTO.
+
+Acme Tech offers internships for AI and ML students. Interns receive a monthly stipend of 25,000 NPR and a certificate after completion. The internship lasts three months.
+
+To apply, send your CV to careers@acmetech.example. Applications are reviewed within one week.
